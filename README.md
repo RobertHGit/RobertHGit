@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertHGit
-- 👀 I’m interested in machine learning and designing, developing, and testing Python code that can translate data into actionable insights and valuable deliverables.
-- 🌱 I’m currently learning containerisation for building and running cloud native python.
-- 💞️ I’m looking to collaborate on building a Account-2-Account payment app which runs on the cloud and uses edge computing to make money gifts easy.
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning designing and deploying cloud native event-driven microservices and how they enable AI
+- 💞️ I’m looking to collaborate, so reach out
 - 📫 You can reach me via LinkedIn just go to https://www.linkedin.com/in/rjhommes/.
 
 <!---
